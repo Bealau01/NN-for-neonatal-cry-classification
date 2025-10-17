@@ -1,0 +1,1 @@
+In the file "presentazione PW DL", you can find the project description, details about the dataset used, and the implementation of the three networks (rete 1, 2, and 3). These networks employ techniques such as data augmentation (offline and on-the-fly), transfer learning (using the PANNs model), and a transformer encoder.
